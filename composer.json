@@ -1,0 +1,11 @@
+{
+    "name": "hicham/hicham",
+    "description": "projet quetes composer",
+    "authors": [
+        {
+            "name": "hicham",
+            "email": "hicham.djama95@gmail.com"
+        }
+    ],
+    "require": {}
+}
